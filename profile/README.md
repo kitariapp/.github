@@ -6,4 +6,4 @@
 
 <br>
 
-An **ad-free** and open-source anime streaming site built for your needs. Kitari was established since **January 1st 2022**. It is still under heavy daily development. And yes, there are already several streamign sites out there. In fact, Kitari was built for fun only. 
+An **ad-free** and open-source anime streaming site built for your needs. We have been baking cookies since **January 1st 2022**. It is still under heavy daily development. And yes, there are already several streaming sites out there. In fact, Kitari was built just for hobby and make things easier. 
